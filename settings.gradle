@@ -1,0 +1,2 @@
+rootProject.name = "COMT Part 2"
+include ':app'
